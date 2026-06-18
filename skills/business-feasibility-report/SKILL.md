@@ -3,7 +3,7 @@ name: business-feasibility-report
 description: "Use when creating commercial feasibility reports, business landing analysis, 可行性报告, 可研报告, 项目研判, 园区/门店/商业空间定位, 新产品/服务商业化, 新业态申报, 招商决策, MVP验证, 投资立项, or any task that needs market/customer insight, location and traffic analysis, hard-condition checks, business model, compliance, risk, staged roadmap, and decision recommendations."
 ---
 
-# 商业落地可行性报告 Skill
+# 商业可行性报告一键生成skills
 
 ## Overview
 
