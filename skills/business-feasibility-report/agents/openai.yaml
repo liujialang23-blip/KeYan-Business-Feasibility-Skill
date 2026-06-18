@@ -1,0 +1,4 @@
+interface:
+  display_name: "商业落地可行性报告 Skill"
+  short_description: "生成可决策可落地的商业可行性报告和区位交通研判"
+  default_prompt: "Use $business-feasibility-report to turn my project materials into a commercial feasibility report with market, location, execution, risk, and roadmap analysis."
