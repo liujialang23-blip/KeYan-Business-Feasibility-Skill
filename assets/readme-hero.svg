@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">商业可行性报告一键生成skills</title>
+  <desc id="desc">A visual cover for an AI skill that creates business feasibility reports with market, location, traffic, compliance, risk and roadmap analysis.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#102033"/>
+      <stop offset="0.48" stop-color="#17324d"/>
+      <stop offset="1" stop-color="#0f5f63"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#f4fbff" stop-opacity="0.92"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000000" flood-opacity="0.24"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <path d="M0 520 C190 470 280 600 470 548 C705 484 788 391 1000 429 C1135 453 1195 505 1280 470 L1280 640 L0 640 Z" fill="#32b4a8" opacity="0.18"/>
+  <path d="M0 95 C180 40 292 108 472 72 C625 42 715 10 880 48 C1052 89 1113 165 1280 118 L1280 0 L0 0 Z" fill="#ffffff" opacity="0.06"/>
+  <g filter="url(#shadow)">
+    <rect x="78" y="78" width="580" height="484" rx="28" fill="url(#card)"/>
+    <rect x="108" y="112" width="180" height="18" rx="9" fill="#0f766e" opacity="0.9"/>
+    <text x="108" y="188" font-family="PingFang SC, Microsoft YaHei, Arial, sans-serif" font-size="48" font-weight="800" fill="#102033">商业可行性报告</text>
+    <text x="108" y="246" font-family="PingFang SC, Microsoft YaHei, Arial, sans-serif" font-size="48" font-weight="800" fill="#0f766e">一键生成 skills</text>
+    <text x="108" y="306" font-family="PingFang SC, Microsoft YaHei, Arial, sans-serif" font-size="24" fill="#39526b">从想法到决策，从资料到可落地报告</text>
+    <g transform="translate(108 356)">
+      <rect width="180" height="48" rx="14" fill="#e7f7f4"/>
+      <text x="22" y="31" font-family="PingFang SC, Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="700" fill="#0f766e">区位交通</text>
+      <rect x="200" width="180" height="48" rx="14" fill="#eef4ff"/>
+      <text x="222" y="31" font-family="PingFang SC, Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="700" fill="#2854a6">商业模式</text>
+      <rect y="68" width="180" height="48" rx="14" fill="#fff7e8"/>
+      <text x="22" y="99" font-family="PingFang SC, Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="700" fill="#9a5b00">合规风险</text>
+      <rect x="200" y="68" width="180" height="48" rx="14" fill="#f3edff"/>
+      <text x="222" y="99" font-family="PingFang SC, Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="700" fill="#6542a4">分期落地</text>
+    </g>
+    <text x="108" y="514" font-family="Inter, Arial, sans-serif" font-size="19" fill="#60758a">Business Feasibility Report Skill for real decisions</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="730" y="92" width="458" height="442" rx="28" fill="#f8fcff" opacity="0.96"/>
+    <rect x="770" y="132" width="378" height="250" rx="22" fill="#dff4f1"/>
+    <path d="M770 245 C850 188 920 230 982 172 C1042 116 1098 158 1148 128 L1148 382 L770 382 Z" fill="#c6e6fb"/>
+    <path d="M808 344 L1130 168" stroke="#ffffff" stroke-width="16" stroke-linecap="round" opacity="0.78"/>
+    <path d="M805 344 L1130 168" stroke="#2d6cdf" stroke-width="6" stroke-linecap="round" opacity="0.68"/>
+    <circle cx="892" cy="265" r="18" fill="#f97316"/>
+    <circle cx="1016" cy="214" r="15" fill="#0f766e"/>
+    <circle cx="1088" cy="306" r="15" fill="#2854a6"/>
+    <circle cx="850" cy="330" r="13" fill="#7c3aed"/>
+    <g font-family="PingFang SC, Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="700">
+      <text x="786" y="421" fill="#102033">地图 + 周边配套 + 交通便利</text>
+      <text x="786" y="456" fill="#39526b" font-size="16" font-weight="500">地铁 / 公交 / 停车 / 高校 / 商圈 / 社区</text>
+    </g>
+    <g transform="translate(786 472)">
+      <rect width="88" height="34" rx="17" fill="#e7f7f4"/>
+      <text x="18" y="23" font-family="PingFang SC, Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#0f766e">已确认</text>
+      <rect x="102" width="88" height="34" rx="17" fill="#fff7e8"/>
+      <text x="120" y="23" font-family="PingFang SC, Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#9a5b00">需复核</text>
+      <rect x="204" width="112" height="34" rx="17" fill="#eef4ff"/>
+      <text x="222" y="23" font-family="PingFang SC, Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#2854a6">可推进</text>
+    </g>
+  </g>
+</svg>
