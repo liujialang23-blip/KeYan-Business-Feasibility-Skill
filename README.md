@@ -9,7 +9,7 @@
   <img alt="Language" src="https://img.shields.io/badge/Language-中文%20%2B%20English-f97316">
 </p>
 
-> 搜索关键词：商业可行性报告一键生成skills、商业可行性报告、可研报告、商业可研、Business Feasibility Report Skill、AI feasibility report。
+> 商业可行性报告一键生成skills、商业可行性报告、可研报告、商业可研、Business Feasibility Report Skill、AI feasibility report。
 
 一个面向真实商业决策的 AI Skill：把一个项目、产品、园区、门店、服务、新业态或投资机会，转化为一份可判断、可验证、可执行的商业落地可行性报告。
 
